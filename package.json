@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "@escook/request-miniprogram": "^0.2.1",
-    "animate.css": "^4.1.1",
-    "uview-ui": "^1.8.8"
-  }
-}
